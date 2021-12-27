@@ -1,0 +1,1 @@
+worker: golang main.go
